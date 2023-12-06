@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Deletion Instructions</title>
+</head>
+<body>
+    <header>
+        <h1>Data Deletion Instructions</h1>
+    </header>
+    <section>
+        <p>Hello there! I'm [Your Name], a developer at Dantech Limited.</p>
+        <p>If you wish to delete your data from our system, please follow these instructions:</p>
+        
+        <ol>
+            <li>Install the "All Movies Downloader" app on your device.</li>
+            <li>Login to the app with your credentials.</li>
+            <li>Open the menu bar.</li>
+            <li>Click on the "Me" tab.</li>
+            <li>Select the "Delete Account" option.</li>
+            <li>Confirm the deletion, and your data will be permanently removed from our system.</li>
+        </ol>
+        
+        <p>If you encounter any issues or have questions, please contact us at <a href="mailto:admin@films365.org">admin@films365.org</a>.</p>
+    </section>
+    <footer>
+        <p>&copy; 2023 Dantech Limited. All rights reserved.</p>
+    </footer>
+</body>
+</html>
